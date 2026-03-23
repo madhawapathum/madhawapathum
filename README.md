@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/madhawa-pathum-7228aa27a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:madhawapathum35@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=madhawapathum&style=for-the-badge&color=0e75b6" alt="Profile views"/>
+  <a href="https://www.credly.com/users/madhawa-pathum"><img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white"/></a>
 </p>
 
 ---
