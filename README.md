@@ -111,7 +111,7 @@ I'm an IT Support & Systems professional from **Kalutara, Sri Lanka** with 3+ ye
 
 - 💼 LinkedIn: [linkedin.com/in/madhawa-pathum-7228aa27a](https://www.linkedin.com/in/madhawa-pathum-7228aa27a)
 - 📧 Email: madhawapathum35@gmail.com
-- 📍 Location: Kalutara, Sri Lanka
+- 📱  Mobile: +94771623781
 
 ---
 
