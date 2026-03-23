@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Madhawa Pathum 👋</h1>
 
 <p align="center">
-  <b>Infrastructure & Systems Support · Linux Enthusiast · Homelab Builder</b><br/>
+  <b>Infrastructure & Systems Support · Linux Administration · Networking<br/>
   <i>Learning by breaking, fixing, and building 🚀</i>
 </p>
 
@@ -23,8 +23,17 @@ I'm an IT Support & Systems professional from **Kalutara, Sri Lanka** with 3+ ye
 - 📍 Based in Kalutara, Sri Lanka
 
 ---
+ 
+## 💡 Core Skills
+ 
+- 🐧 **Linux Administration** — LVM, systemd, SELinux
+- 🖥️ **Windows Server & Active Directory** — User management, GPO, access provisioning
+- 🌐 **Networking** — TCP/IP, DNS, DHCP, VLANs
+- 📜 **Bash Scripting & Troubleshooting** — Automation, monitoring, log analysis
+ 
+---
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ Tech Stack
 
 **Operating Systems**
 
@@ -94,7 +103,7 @@ I'm an IT Support & Systems professional from **Kalutara, Sri Lanka** with 3+ ye
 |---|---|
 | Cisco CCNA (ITN, SRWE, ENSA) | Cisco Networking Academy |
 | AWS Cloud Technical Essentials | Amazon Web Services |
-| Introduction to Kubernetesith  | Linux Foundation |
+| Introduction to Kubernetes  | Linux Foundation |
 
 ---
 
