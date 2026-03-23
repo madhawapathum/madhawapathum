@@ -93,9 +93,8 @@ I'm an IT Support & Systems professional from **Kalutara, Sri Lanka** with 3+ ye
 | Certification | Issuer |
 |---|---|
 | Cisco CCNA (ITN, SRWE, ENSA) | Cisco Networking Academy |
-| Red Hat System Administration (RH124 & RH134) | Red Hat |
 | AWS Cloud Technical Essentials | Amazon Web Services |
-| Network Administration with Security | NYSC Sri Lanka |
+| Introduction to Kubernetesith  | Linux Foundation |
 
 ---
 
